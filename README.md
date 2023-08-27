@@ -17,4 +17,4 @@ Requirements to run this script as it is:
     $column3    = "CO2_base";
 - A webserver with PHP and MySQL.
 - A cronjob opening the wettercheck.php every 15 minutes.
-
+- Roboto-Regular.ttf Font (https://fonts.google.com/specimen/Roboto)
